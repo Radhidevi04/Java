@@ -15,9 +15,6 @@ public class jaggedarray {
                 System.out.print(m+" ");
             }
             System.out.println();
-
         }
-
     }
-    
 }
